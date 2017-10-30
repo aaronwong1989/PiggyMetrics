@@ -1,3 +1,4 @@
+# first step
 1. add hostname
 ```
 127.0.0.1	 config registry gateway 
